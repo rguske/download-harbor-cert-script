@@ -1,5 +1,7 @@
 #! /bin/bash
 
+set -euo pipefail
+
 # Ask for the Harbor FQDN and port
 echo "Enter the FQDN and port (harbor.domain.com:443) of your Harbor registry:"
 
