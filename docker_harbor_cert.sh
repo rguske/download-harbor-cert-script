@@ -3,7 +3,7 @@
 set -euo pipefail
 
 # Ask for the Harbor FQDN and port
-echo "Enter the FQDN and port (harbor.domain.com:443) of your Harbor registry:"
+echo "Enter the FQDN (e.g. harbor.domain.com) of your Harbor registry:"
 
 read REGISTRY
 
