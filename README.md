@@ -1,4 +1,4 @@
-# Using Harbor with the vCenter Event Broker Appliance - Script repository
+# Using Harbor with the VMware Event Broker Appliance - Script repository
 
 **Post URL:** https://rguske.github.io/post/using-harbor-with-the-vcenter-event-broker-appliance/
 
